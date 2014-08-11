@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.data:spring-data-neo4j-rest:test-jar:tests:3.1.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-neo4j-rest/3.1.0.RELEASE/spring-data-neo4j-rest-3.1.0.RELEASE-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-neo4j-rest/3.1.0.RELEASE/spring-data-neo4j-rest-3.1.0.RELEASE-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-neo4j-rest/3.1.0.RELEASE/spring-data-neo4j-rest-3.1.0.RELEASE-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
